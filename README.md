@@ -1,0 +1,2 @@
+# eicar
+EICAR static site
