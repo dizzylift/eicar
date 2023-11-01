@@ -8,7 +8,7 @@
 
 X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 
-This string can be placed in text file using a text editor, and appended with whitespace characters. See the [EICAR website]([https://www.eicar.org](https://www.eicar.org/download-anti-malware-testfile/)) for more instructions.
+See the [EICAR website]([https://www.eicar.org](https://www.eicar.org/download-anti-malware-testfile/)) for more instructions.
 
 ### QR Image:
 
@@ -18,14 +18,10 @@ This string can be placed in text file using a text editor, and appended with wh
 
 Please see [eicar.org](https://eicar.org) for several formats if you require a pre-made file. I don't know if Github would get upset at the file living here, and I don't feel like finding out.
 
-## What is the EICAR string?
+## What is the EICAR File?
 
-This is the "EICAR Standard Anti-Virus Test File" and was created as a way to check antivirus and antimalware software functionality without the risk of deploying a live virus to production equipment. You can read more about the development of the file on [Wikipedia](https://en.wikipedia.org/wiki/EICAR_test_file).
+The "EICAR Standard Anti-Virus Test File" was created to verify antivirus and antimalware software functionality without the risk of deploying a live virus to production equipment. You can read more about the development of the file on [Wikipedia](https://en.wikipedia.org/wiki/EICAR_test_file).
 
 ## Why is this useful?
 
-Running this file will (hopefully) trigger antimalware alerts, which can be then be observed and adjusted as required. You test (again, hopefully) your UPS hardware, backups, and smoke alarms, right? Don't forget to also test your antivirus and antimalware alerting too!
-
-
-
-
+Running this file will (hopefully) trigger antimalware alerts, which can be then be observed and adjusted as required. You (again, hopefully) test your UPS hardware, backups, and smoke alarms, right? Don't forget to test your antivirus and antimalware alerting!
