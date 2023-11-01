@@ -8,7 +8,7 @@
 
 X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 
-See the [EICAR website]([https://www.eicar.org](https://www.eicar.org/download-anti-malware-testfile/)) for more instructions.
+See the [EICAR website]([https://www.eicar.org](https://www.eicar.org/download-anti-malware-testfile/)) for additional instructions.
 
 ### QR Image:
 
@@ -16,12 +16,12 @@ See the [EICAR website]([https://www.eicar.org](https://www.eicar.org/download-a
 
 ### File Downloads:
 
-Please see [eicar.org](https://www.eicar.org/download-anti-malware-testfile) for several formats if you require a pre-made file. I don't know if Github would get upset at the file living here, and I don't feel like finding out.
+Please visit [eicar.org](https://www.eicar.org/download-anti-malware-testfile) for several pre-made file options.
 
 ## What is the EICAR File?
 
-The "EICAR Standard Anti-Virus Test File" was created to verify antivirus and antimalware software functionality without the risk of deploying a live virus to production equipment. You can read more about the development of the file on [Wikipedia](https://en.wikipedia.org/wiki/EICAR_test_file).
+The "EICAR Standard Anti-Virus Test File" was created to verify anti-virus and anti-malware software functionality without the risk of deploying a live virus to production equipment. You can read more about the development of the file on [Wikipedia](https://en.wikipedia.org/wiki/EICAR_test_file).
 
 ## Why is this useful?
 
-Running this file will (hopefully) trigger antimalware alerts, which can be then be observed and adjusted as required. You (again, hopefully) test your UPS hardware, backups, and smoke alarms, right? Don't forget to test your antivirus and antimalware alerting!
+Running this file will (hopefully) trigger anti-malware alerts, which can be then be observed and adjusted as required. You (again, hopefully) test your UPS hardware, backups, and smoke alarms, right? Don't forget to test your antivirus and anti-malware alerting!
