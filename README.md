@@ -16,7 +16,7 @@ See the [EICAR website]([https://www.eicar.org](https://www.eicar.org/download-a
 
 ### File Downloads:
 
-Please see [eicar.org](https://eicar.org) for several formats if you require a pre-made file. I don't know if Github would get upset at the file living here, and I don't feel like finding out.
+Please see [eicar.org](https://www.eicar.org/download-anti-malware-testfile) for several formats if you require a pre-made file. I don't know if Github would get upset at the file living here, and I don't feel like finding out.
 
 ## What is the EICAR File?
 
